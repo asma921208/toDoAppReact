@@ -1,1 +1,1 @@
-Simple React Todo App
+Simple React/Redux Todo App
